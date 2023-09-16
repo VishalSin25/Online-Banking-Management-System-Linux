@@ -6,5 +6,5 @@ Roll: MT2022118
 struct Account{
         long int account_number;
         double balance;
-        bool status;	//active or inactive.
+        bool status;	//active or inactive
 };
