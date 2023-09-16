@@ -9,6 +9,6 @@ struct Customer{
         char password[512];
         long int account_number;
         int age;
-        int type;		// 0-> admin 1-> Normal User 2-> Joint User
+        int type;		// 0-> admin 1-> Normal User 2-> Joint User.
         bool status;		// 0-> INactive 1-> Active
 };
