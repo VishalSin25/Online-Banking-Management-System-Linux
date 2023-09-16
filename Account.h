@@ -1,6 +1,6 @@
 /* Structure to store the Account for  Banking Management System.
-Name: Subham Basu Roy Chowdhury
-Roll: MT2022118
+Name: Vishal Singh
+Roll: MT2022133
 */
 
 struct Account{
